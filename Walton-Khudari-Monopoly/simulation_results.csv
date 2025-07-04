@@ -1,0 +1,97 @@
+Month,Agent Type,Agent Name,Occupancy Rate,Pricing
+2022-12,Hotel,Luxury,96.66%,$551.62 
+2022-12,Hotel,Upper Upscale,14.95%,$311.59 
+2022-12,Hotel,Upscale,12.21%,$265.12 
+2022-12,Hotel,Upper Midscale,65.65%,$245.31 
+2022-12,Hotel,Luxury Upper Manhattan,94.36%,$497.43 
+2022-12,Airbnb,Budget,69.81%,$77.97 
+2022-12,Airbnb,Standard,47.96%,$158.74 
+2022-12,Airbnb,Premium,23.28%,$550.34 
+2023-01,Hotel,Luxury,83.84%,$579.20 
+2023-01,Hotel,Upper Upscale,65.62%,$327.17 
+2023-01,Hotel,Upscale,69.46%,$278.38 
+2023-01,Hotel,Upper Midscale,93.72%,$257.57 
+2023-01,Hotel,Luxury Upper Manhattan,10.98%,$522.30 
+2023-01,Airbnb,Budget,29.96%,$81.87 
+2023-01,Airbnb,Standard,11.39%,$166.68 
+2023-01,Airbnb,Premium,92.19%,$577.85 
+2023-02,Hotel,Luxury,65.64%,$608.16 
+2023-02,Hotel,Upper Upscale,92.76%,$343.53 
+2023-02,Hotel,Upscale,98.43%,$292.30 
+2023-02,Hotel,Upper Midscale,40.53%,$270.45 
+2023-02,Hotel,Luxury Upper Manhattan,36.82%,$548.41 
+2023-02,Airbnb,Budget,3.96%,$85.96 
+2023-02,Airbnb,Standard,29.82%,$175.01 
+2023-02,Airbnb,Premium,71.69%,$606.75 
+2023-03,Hotel,Luxury,44.05%,$638.57 
+2023-03,Hotel,Upper Upscale,86.24%,$360.70 
+2023-03,Hotel,Upscale,29.76%,$306.91 
+2023-03,Hotel,Upper Midscale,41.28%,$283.97 
+2023-03,Hotel,Luxury Upper Manhattan,14.55%,$575.83 
+2023-03,Airbnb,Budget,28.47%,$90.26 
+2023-03,Airbnb,Standard,16.88%,$183.76 
+2023-03,Airbnb,Premium,96.35%,$637.08 
+2023-04,Hotel,Luxury,91.38%,$670.49 
+2023-04,Hotel,Upper Upscale,41.26%,$378.74 
+2023-04,Hotel,Upscale,68.98%,$322.26 
+2023-04,Hotel,Upper Midscale,13.12%,$298.17 
+2023-04,Hotel,Luxury Upper Manhattan,43.32%,$604.62 
+2023-04,Airbnb,Budget,37.04%,$94.77 
+2023-04,Airbnb,Standard,58.35%,$192.95 
+2023-04,Airbnb,Premium,50.61%,$668.94 
+2023-05,Hotel,Luxury,41.30%,$704.02 
+2023-05,Hotel,Upper Upscale,0.29%,$397.67 
+2023-05,Hotel,Upscale,76.83%,$338.37 
+2023-05,Hotel,Upper Midscale,35.00%,$313.08 
+2023-05,Hotel,Luxury Upper Manhattan,19.53%,$634.85 
+2023-05,Airbnb,Budget,74.71%,$99.51 
+2023-05,Airbnb,Standard,63.40%,$202.60 
+2023-05,Airbnb,Premium,0.48%,$702.39 
+2023-06,Hotel,Luxury,68.97%,$739.22 
+2023-06,Hotel,Upper Upscale,90.61%,$417.56 
+2023-06,Hotel,Upscale,16.47%,$355.29 
+2023-06,Hotel,Upper Midscale,50.05%,$328.73 
+2023-06,Hotel,Luxury Upper Manhattan,33.60%,$666.60 
+2023-06,Airbnb,Budget,43.52%,$104.48 
+2023-06,Airbnb,Standard,27.91%,$212.73 
+2023-06,Airbnb,Premium,62.24%,$737.51 
+2023-07,Hotel,Luxury,36.36%,$776.18 
+2023-07,Hotel,Upper Upscale,40.41%,$438.44 
+2023-07,Hotel,Upscale,53.17%,$373.06 
+2023-07,Hotel,Upper Midscale,44.21%,$345.17 
+2023-07,Hotel,Luxury Upper Manhattan,1.07%,$699.93 
+2023-07,Airbnb,Budget,42.32%,$109.71 
+2023-07,Airbnb,Standard,99.36%,$223.36 
+2023-07,Airbnb,Premium,71.01%,$774.38 
+2023-08,Hotel,Luxury,24.75%,$814.99 
+2023-08,Hotel,Upper Upscale,85.95%,$460.36 
+2023-08,Hotel,Upscale,19.99%,$391.71 
+2023-08,Hotel,Upper Midscale,49.89%,$362.43 
+2023-08,Hotel,Luxury Upper Manhattan,71.91%,$734.92 
+2023-08,Airbnb,Budget,28.59%,$115.19 
+2023-08,Airbnb,Standard,86.52%,$234.53 
+2023-08,Airbnb,Premium,12.05%,$813.10 
+2023-09,Hotel,Luxury,55.62%,$855.74 
+2023-09,Hotel,Upper Upscale,75.00%,$483.38 
+2023-09,Hotel,Upscale,1.16%,$411.29 
+2023-09,Hotel,Upper Midscale,86.31%,$380.55 
+2023-09,Hotel,Luxury Upper Manhattan,44.17%,$771.67 
+2023-09,Airbnb,Budget,81.44%,$120.95 
+2023-09,Airbnb,Standard,37.30%,$246.26 
+2023-09,Airbnb,Premium,71.25%,$853.75 
+2023-10,Hotel,Luxury,90.05%,$898.53 
+2023-10,Hotel,Upper Upscale,4.70%,$507.54 
+2023-10,Hotel,Upscale,64.36%,$431.86 
+2023-10,Hotel,Upper Midscale,97.32%,$399.58 
+2023-10,Hotel,Luxury Upper Manhattan,14.83%,$810.25 
+2023-10,Airbnb,Budget,48.10%,$127.00 
+2023-10,Airbnb,Standard,19.92%,$258.57 
+2023-10,Airbnb,Premium,44.79%,$896.44 
+2023-11,Hotel,Luxury,36.77%,$943.45 
+2023-11,Hotel,Upper Upscale,47.78%,$532.92 
+2023-11,Hotel,Upscale,54.39%,$453.45 
+2023-11,Hotel,Upper Midscale,9.80%,$419.56 
+2023-11,Hotel,Luxury Upper Manhattan,93.17%,$850.77 
+2023-11,Airbnb,Budget,62.42%,$133.35 
+2023-11,Airbnb,Standard,45.70%,$271.50 
+2023-11,Airbnb,Premium,52.52%,$941.26 
