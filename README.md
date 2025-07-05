@@ -46,9 +46,6 @@ The simulation runs iteratively for each month, with tourists choosing accommoda
 **Rule 7:** Compilation of Simulation Results
 At the end of each month, the simulation results, including average pricing and occupancy rates for each type of accommodation, are compiled into a structured format. And then reset to simulate the following month’s statistics.
 
-4. Results:
-![image.png](attachment:image.png)
-
 
 ### 5. Conclusion
 In this visualization, we can compare the both agents' hotels and AirBnb based on the  Average Occupancy Rate (AOR) and Average Price. As seen, hotels have a higher AOR and average price. On the other hand, AirBnnb has lower AOR and average price. Moreover, we can conclude that December, January, and July are the months of busiest schedule for Airbnbs, and Dec, along with Jan are the most busiest months for Hotels.
